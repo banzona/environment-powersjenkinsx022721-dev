@@ -1,0 +1,10 @@
+adminUser:
+  password: local:powersjenkinsx022721/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: arnel@banzon.net
+  token: local:powersjenkinsx022721/pipelineUser:token
+  username: banzona
+prow:
+  hmacToken: local:powersjenkinsx022721/prow:hmacToken
